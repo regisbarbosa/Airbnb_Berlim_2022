@@ -1,6 +1,7 @@
 pandas
+numpy
 streamlit
-joblib==1.1.0
+joblib
 python -m venv venv
-venv\Scripts\activate
+venv\Scripts\activate   
 pip install -r requirements.txt
