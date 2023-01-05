@@ -7,7 +7,9 @@ A base de dados foi baixada diretamente do Airbnb, porém os dados gratuitos só
 
 Link da base de dados: http://insideairbnb.com/get-the-data/
 
-Esse modelo de previsão foi feito por Python no Jupyter Notebook. Principais bibliotecas usadas: Pandas, Numpy, Scikit-learn, Matplotlib.
+Esse modelo de previsão foi feito por Python no Jupyter Notebook.
+
+Principais bibliotecas usadas: Pandas, Numpy, Scikit-learn, Matplotlib.
 
 Continuarei atualizando esse dataset à medida que for sendo disponibilizados mais semestres. Acredito que o modelo irá melhorar tendo mais dados para treinar o modelo.
 
