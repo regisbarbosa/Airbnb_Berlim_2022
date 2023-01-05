@@ -5,6 +5,10 @@ O objetivo desse modelo é prever diárias de Berlim - Alemanha no Airbnb  para 
 
 A base de dados foi baixada diretamente do Airbnb, porém os dados gratuitos só são disponibilizados a cada trimestre e ficam disponíveis apenas os 4 últimos semestres. Assim, as bases usadas foram os semestres 04/2021, 01/2022, 02/2022 e 03/2022.
 
+Link da base de dados: http://insideairbnb.com/get-the-data/
+
+Esse modelo de previsão foi feito por Python no Jupyter Notebook.
+
 Continuarei atualizando esse dataset à medida que for sendo disponibilizados mais semestres. Acredito que o modelo irá melhorar tendo mais dados para treinar o modelo.
 
 O deploy desse modelo de previsão foi feito pelo Streamlit.
