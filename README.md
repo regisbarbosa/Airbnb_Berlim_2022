@@ -15,4 +15,5 @@ Continuarei atualizando esse dataset à medida que for sendo disponibilizados ma
 
 O deploy desse modelo de previsão foi feito pelo Streamlit.
 
-URL do modelo de previsão: https://regisbarbosa-airbnb-berlim-2022-testedeployberlim-zt87hh.streamlit.app/
+URL do modelo de previsão: https://airbnbberlim2022-rfxinhm636mrphffyset9o.streamlit.app/
+
